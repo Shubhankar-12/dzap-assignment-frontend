@@ -4,7 +4,7 @@ This is the frontend code for the DZap assignment, a React application that inte
 
 ## Deployment
 
-The frontend is currently live and accessible at [https://dzap-frontend-ysim.onrender.com/](https://dzap-frontend-ysim.onrender.com/).
+The frontend is currently live and accessible at [https://dzap-frontend.netlify.app/](https://dzap-frontend.netlify.app/).
 
 ## Setup
 
